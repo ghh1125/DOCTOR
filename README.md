@@ -6,8 +6,9 @@
 ├── data 
 ├── models
 ├── utils 
-├── main  
-└── run 
+├── main.py
+├── run.sh
+└── run.py
 ```
 
 ## Dataset
