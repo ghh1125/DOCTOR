@@ -1,13 +1,13 @@
 ## File Structure
 ```shell
 .
-├── README  # * Instruction to this repo
-├── requirements  # * Requirements for Conda Environment
-├── data  # * Place data split & preprocessed data
-├── models  # * Codes for FakingRecipe Model
-├── utils  # * Codes for Training and Inference
-├── main  # * Codes for Training and Inference
-└── run  # * Codes for Training and Inference  
+├── README 
+├── requirements 
+├── data 
+├── models
+├── utils 
+├── main  
+└── run 
 ```
 
 ## Dataset
