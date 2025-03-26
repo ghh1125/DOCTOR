@@ -1,6 +1,6 @@
 # DOCTOR: DOmain generalization via ConsisTency and invariance learning for shORt-video fake news detection
 ```shell
-.
+
 ├── README 
 ├── requirements.txt
 ├── FakeTT_Domain_output
