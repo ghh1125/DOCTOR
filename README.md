@@ -2,7 +2,9 @@
 ```shell
 .
 ├── README 
-├── requirements 
+├── requirements.txt
+├── FakeTT_Domain_output
+├── FakeSV_Domain_output 
 ├── data 
 ├── models
 ├── utils
