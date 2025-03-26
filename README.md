@@ -1,4 +1,4 @@
-## File Structure
+## DOCTOR: DOmain generalization via ConsisTency and invariance learning for shORt-video fake news detection
 ```shell
 .
 ├── README 
