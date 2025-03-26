@@ -16,8 +16,8 @@ We conduct experiments on two datasets: FakeSV and FakeTT.
 
 ## Environment
 ```shell
-  conda create -n aaa python=3.9
-  conda activate aaa
+  conda create -n DOCTOR python=3.9
+  conda activate DOCTOR
   pip install -r requirements.txt
 ```
 ## Data Preprocess
