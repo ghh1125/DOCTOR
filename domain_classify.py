@@ -5,7 +5,7 @@ import os
 from collections import Counter
 
 
-llm = OllamaLLM(model="gemma2:27b")
+llm = OllamaLLM(model="Qwen2.5")
 
 json_file = "./FakeSV_DATA_OPENSOURCE/data.json"
 
