@@ -7,7 +7,7 @@ from torch.utils.data import DataLoader
 from torch.utils.tensorboard import SummaryWriter
 from utils.dataloader import *
 from utils.Trainer import *
-from model.FakingRecipe import *
+from model.DOCTOR import *
 import warnings
 warnings.filterwarnings("ignore")
 
