@@ -9,7 +9,7 @@ import json
 
 
 
-class FakingRecipe_Dataset(Dataset):
+class DOCTOR_Dataset(Dataset):
     def __init__(self, vid_path,dataset):
         self.dataset=dataset
         if dataset=='fakesv': 
