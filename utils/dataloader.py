@@ -235,7 +235,7 @@ def pad_unnatural_phrase(phrase_lst,target_len):
 
 
 
-def collate_fn_FakeingRecipe(batch):
+def collate_fn_DOCTOR(batch):
     num_visual_frames=83
     num_segs=83
     num_phrase=80
