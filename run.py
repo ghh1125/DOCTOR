@@ -31,7 +31,7 @@ class Run():
 
     def get_dataloader(self,data_path):
         dataset=DOCTOR_Dataset(data_path,self.dataset)
-        collate_fn=collate_fn_FakeingRecipe
+        collate_fn=collate_fn_DOCTOR
         dataloader = DataLoader(dataset, batch_size=self.batch_size, shuffle=True, num_workers=0, collate_fn=collate_fn)
         return dataloader
 
