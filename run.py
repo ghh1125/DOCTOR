@@ -36,7 +36,7 @@ class Run():
         return dataloader
 
     def main(self):
-        self.model = FakingRecipe_Model(self.dataset)
+        self.model = DCTOR_Model(self.dataset)
         project_root = os.path.dirname(os.path.abspath(__file__))
 
         if self.mode=='train':
