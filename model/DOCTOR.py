@@ -290,9 +290,9 @@ class MEAM(torch.nn.Module):
         return output_meam
 
 
-class FakingRecipe_Model(torch.nn.Module):
+class DCTOR_Model(torch.nn.Module):
     def __init__(self, dataset):
-        super(FakingRecipe_Model, self).__init__()
+        super(DCTOR_Model, self).__init__()
         self.content_branch=MSAM(dataset=dataset)
         self.editing_branch = MEAM(dataset=dataset)
         self.dg_model = DG_Model()
