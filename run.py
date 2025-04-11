@@ -30,7 +30,7 @@ class Run():
         self.diffusion=config['diffusion']
 
     def get_dataloader(self,data_path):
-        dataset=FakingRecipe_Dataset(data_path,self.dataset)
+        dataset=DOCTOR_Dataset(data_path,self.dataset)
         collate_fn=collate_fn_FakeingRecipe
         dataloader = DataLoader(dataset, batch_size=self.batch_size, shuffle=True, num_workers=0, collate_fn=collate_fn)
         return dataloader
