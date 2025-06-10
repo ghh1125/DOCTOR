@@ -292,7 +292,7 @@ class MEAM(torch.nn.Module):
 
 class DOCTOR_Model(torch.nn.Module):
     def __init__(self, dataset):
-        super(DCTOR_Model, self).__init__()
+        super(DOCTOR_Model, self).__init__()
         self.content_branch=MSAM(dataset=dataset)
         self.editing_branch = MEAM(dataset=dataset)
         self.dg_model = DG_Model()
