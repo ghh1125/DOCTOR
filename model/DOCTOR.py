@@ -290,7 +290,7 @@ class MEAM(torch.nn.Module):
         return output_meam
 
 
-class DCTOR_Model(torch.nn.Module):
+class DOCTOR_Model(torch.nn.Module):
     def __init__(self, dataset):
         super(DCTOR_Model, self).__init__()
         self.content_branch=MSAM(dataset=dataset)
