@@ -1,4 +1,14 @@
-# DOCTOR
+# Consistent and Invariant Generalization Learning for Short-video Misinformation Detection
+
+
+🚀 **Exciting News**! 
+
+✨ We are **thrilled** to announce that our paper, titled **"Consistent and Invariant Generalization Learning for Short-video Misinformation Detection"**, has been **accepted** for presentation at **ACM MM 2025**! 🎉
+🎉
+---
+
+# Quick Start
+
 ```shell
 
 ├── README 
