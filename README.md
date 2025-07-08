@@ -57,3 +57,16 @@ You can train and test by following code:
   python main.py --dataset fakett --mode train --inference_ckp ./provided_ckp/FakingRecipe_fakett --dg --diffusion --alpha 0.1 --beta 3 --gamma 0.05 --lr 1e-3
   ```
 
+# Citation
+
+```
+@misc{guo2025consistentinvariantgeneralizationlearning,
+      title={Consistent and Invariant Generalization Learning for Short-video Misinformation Detection}, 
+      author={Hanghui Guo and Weijie Shi and Mengze Li and Juncheng Li and Hao Chen and Yue Cui and Jiajie Xu and Jia Zhu and Jiawei Shen and Zhangze Chen and Sirui Han},
+      year={2025},
+      eprint={2507.04061},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2507.04061}, 
+}
+```
