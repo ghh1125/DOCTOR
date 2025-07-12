@@ -60,13 +60,10 @@ You can train and test by following code:
 # Citation
 
 ```
-@misc{guo2025consistentinvariantgeneralizationlearning,
-      title={Consistent and Invariant Generalization Learning for Short-video Misinformation Detection}, 
-      author={Hanghui Guo and Weijie Shi and Mengze Li and Juncheng Li and Hao Chen and Yue Cui and Jiajie Xu and Jia Zhu and Jiawei Shen and Zhangze Chen and Sirui Han},
-      year={2025},
-      eprint={2507.04061},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2507.04061}, 
+@article{guo2025consistent,
+  title={Consistent and Invariant Generalization Learning for Short-video Misinformation Detection},
+  author={Guo, Hanghui and Shi, Weijie and Li, Mengze and Li, Juncheng and Chen, Hao and Cui, Yue and Xu, Jiajie and Zhu, Jia and Shen, Jiawei and Chen, Zhangze and others},
+  journal={arXiv preprint arXiv:2507.04061},
+  year={2025}
 }
 ```
