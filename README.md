@@ -27,7 +27,7 @@
 
 ## Dataset
 We conduct experiments on two datasets: FakeSV and FakeTT. 
-- You can download preprocessed features and checkpoints in [this repo](https://github.com/ICTMCG/FakingRecipe). 
+- You can download preprocessed features in [this repo](https://github.com/ICTMCG/FakingRecipe). 
 
 ## Environment
 ```shell
