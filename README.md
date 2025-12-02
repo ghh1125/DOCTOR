@@ -60,10 +60,11 @@ You can train and test by following code:
 # Citation
 
 ```
-@article{guo2025consistent,
+@inproceedings{guo2025consistent,
   title={Consistent and Invariant Generalization Learning for Short-video Misinformation Detection},
   author={Guo, Hanghui and Shi, Weijie and Li, Mengze and Li, Juncheng and Chen, Hao and Cui, Yue and Xu, Jiajie and Zhu, Jia and Shen, Jiawei and Chen, Zhangze and others},
-  journal={arXiv preprint arXiv:2507.04061},
+  booktitle={Proceedings of the 33rd ACM International Conference on Multimedia},
+  pages={2254--2263},
   year={2025}
 }
 ```
